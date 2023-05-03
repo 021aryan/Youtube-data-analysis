@@ -51,8 +51,8 @@ The following are the general steps for conducting YouTube data analysis:
 
 Overall, these steps can be modified based on the specific research question and data sources available, but they provide a general framework for conducting YouTube data analysis.
 
-##Screenshots
-
+## Screenshots
+![download](https://user-images.githubusercontent.com/91712563/235896774-5b240b86-a70b-410c-a4ee-3b6eac994ec2.png)
 
 
 
