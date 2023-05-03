@@ -5,6 +5,7 @@ YouTube is one of the most popular and premier video-sharing platforms by Google
 Any user that has a channel & uploads videos on YouTube is known as a YouTuber. YouTubers can have numerous roles such as video creator, producer, voice-over artists, translator, gamer, vlogger, editor, etc. that they play to keep their channel up and profitable. YouTube further provides all the creators with the YouTube Analytics functionality, allowing them to keep track of crucial metrics & statistics to help manage their channels better.
 
 #ABSTRACT
+
 The popularity of YouTube has made it a valuable source of information for data analysis. YouTube data analysis involves collecting and analyzing data on the content, users, and viewers of YouTube videos. This data can be used to gain insights into user behavior, video trends, and audience demographics.
 
 To conduct YouTube data analysis, various data sources can be utilized, including YouTube's API, third-party tools, and web scraping. The collected data can then be analyzed using statistical and machine learning techniques to extract valuable insights.
@@ -14,6 +15,7 @@ Some of the applications of YouTube data analysis include understanding video pe
 Overall, YouTube data analysis can provide valuable insights for content creators, marketers, researchers, and policymakers. By understanding YouTube's data, one can make informed decisions to maximize the impact of their content, improve user engagement, and create a better online experience for viewers.
 
 #Methodology
+
 The following are the general steps for conducting YouTube data analysis:
 
 1)Define the research question: Determine the research question you want to answer or the problem you want to solve.
