@@ -54,11 +54,12 @@ Overall, these steps can be modified based on the specific research question and
 ## Channel Data
 ![Channel data](https://user-images.githubusercontent.com/91712563/235915242-49707fea-b049-414e-965c-1caffc529c05.png)
 - For the purpose of conducting data analysis, we have selected various YouTube channels to gather information from.
+
 ## Graphs
 ![Graphs](https://user-images.githubusercontent.com/91712563/235916549-4fe349fe-e673-4ec3-ad49-50c5b02062b2.png)
 - After conducting data analysis on the selected YouTube channels, we have generated several graphs to visualize and better understand the gathered information.
 
-
-
-
+## Error Analysis
+![error](https://user-images.githubusercontent.com/91712563/235917446-dee78049-5c86-4f81-9ea3-a1d3030cfd6c.png)
+- As part of our data analysis on the chosen YouTube channels, we have also conducted an error analysis to identify and address any inaccuracies or discrepancies in the data.
 
