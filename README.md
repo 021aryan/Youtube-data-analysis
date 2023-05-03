@@ -1,5 +1,5 @@
 # Youtube-data-analysis
-ave you ever wondered how YouTube Analytics works? How any Youtube channel is growing? How to check your channel’s progress? How YouTube shows trending videos? How to check the statistics (i.e subscribers, likes, dislikes, views, comments, etc.) of any channel? How websites like Tubics, Social Blade, etc. analyse any YouTube channel?
+Have you ever wondered how YouTube Analytics works? How any Youtube channel is growing? How to check your channel’s progress? How YouTube shows trending videos? How to check the statistics (i.e subscribers, likes, dislikes, views, comments, etc.) of any channel? How websites like Tubics, Social Blade, etc. analyse any YouTube channel?
 
 No? Don’t worry. ✌️ I have made a small project based on it. Click here YouTube Channel Analysis for complete source code and to check how it works. You’ll get an idea about what’s happening behind.
 Note: Understanding of Python programming language is required.
