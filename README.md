@@ -54,7 +54,7 @@ Overall, these steps can be modified based on the specific research question and
 ## Screenshots
 ![youtube-analytics-sources-1322777282](https://user-images.githubusercontent.com/91712563/235897266-2e69b1aa-b957-4c30-96c7-23b985c814f9.png)
 ![yt-analytics1](https://user-images.githubusercontent.com/91712563/235897749-f83cd21f-0021-49ac-b22f-56931395ddd5.png)
-
+![YouTube-Channel-Analytics-thumbnail](https://user-images.githubusercontent.com/91712563/235898567-c6c4bb5e-c897-4bf2-9de3-f27fae843fb7.png)
 
 
 
